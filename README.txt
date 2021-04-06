@@ -1,0 +1,1 @@
+Ce git est notre projet IN104 de trading
